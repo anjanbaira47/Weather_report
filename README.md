@@ -1,5 +1,6 @@
 # Weather_report
 DESCRIPTION:
+
 The project demonstrates the application of DevOps principles in developing a weather reporting system that fetches real-time data, stores it securely, and presents it through a user-friendly interface.
 
 
